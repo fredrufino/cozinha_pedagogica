@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Avatar">
+    <file>users/dafault_user.png</file>
+    <file>DSC0174.jpg</file>
+  </qresource>
+</RCC>
